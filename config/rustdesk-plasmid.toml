@@ -1,0 +1,9 @@
+# RustDesk client configuration for ecoPrimals gates
+# Self-hosted relay on eastGate (golgi VPS is DEAD — purged Wave 237)
+
+rendezvous_server = "192.168.4.244:21116"
+relay-server = "192.168.4.244"
+custom-rendezvous-server = "192.168.4.244"
+key = "6oVQBFyHHNAJqm1OlS+XvpdoJ5plYrPzJoPTTYlgQdg="
+direct-server = "Y"
+enable-lan-discovery = "Y"
